@@ -1,2 +1,4 @@
-# codewars
-The code wars questions that i have solved
+# Code Wars
+The code wars solutions i have worked on.
+1. `Tiny Three-Pass Compiler`
+
